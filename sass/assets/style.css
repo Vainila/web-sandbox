@@ -1,0 +1,14 @@
+.class1 {
+  /*dfdf*/
+  background: blue;
+}
+.class1 .nested1 {
+  /*dfsdfsddfsdfs*/
+  margin: 0 auto;
+}
+.class1 .nested1 .nested3 {
+  /*dsfsdfsdfsafdasfasdfasfsafasdfsadf*/
+  background: red;
+}
+
+/*# sourceMappingURL=style.css.map */
